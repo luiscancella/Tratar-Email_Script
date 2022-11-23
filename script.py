@@ -21,5 +21,3 @@ for dado in lines:
             lista = open(f"email{num_arquivo}.txt", "w")
         else:
             lista.write(",")
-#56048
-#56236
